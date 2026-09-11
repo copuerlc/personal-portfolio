@@ -16,10 +16,10 @@ export const profile = {
   location: "Estonia",
   socials: {
     github: "https://github.com/copuerlc",
-    discord: "",
+    discord: "https://discord.gg/3baYj6tcMm",
     youtube: "",
     instagram: "",
-    tiktok: "",
+    tiktok: "https://tiktok.com/@yuhhcopu",
     twitter: "",
     website: ""
   },
@@ -52,7 +52,7 @@ export const profile = {
       name: "Project Axion",
       description: "A simple Chapter 2 Season 2 rememory that will change how you feel about OGFN.",
       technologies: ["React", "JavaScript", "CSS"],
-      image: "",
+      image: "/personal-portfolio/axion_logo.png",
       link: "https://discord.gg/axionfn",
       github: ""
     },
@@ -61,7 +61,7 @@ export const profile = {
       description: "Project Aeris is hosting Chapter 2 Season 4 with 0 DELAY! Join today!",
       technologies: ["Node.js", "Discord.js"],
       image: "",
-      link: "https://discord.gg/aerisfn",
+      link: "https://discord.gg/aerismp",
       github: ""
     },
     {
