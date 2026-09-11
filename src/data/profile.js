@@ -68,7 +68,7 @@ export const profile = {
       name: "Project Pulse",
       description: "Project Pulse brings back Chapter 1 Season X with THE BEST memories!",
       technologies: ["React", "Vite"],
-      image: "",
+      image: "/Pulse__Picture.png",
       link: "https://discord.gg/pulsefn",
       github: ""
     }
