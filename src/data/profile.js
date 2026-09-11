@@ -52,7 +52,7 @@ export const profile = {
       name: "Project Axion",
       description: "A simple Chapter 2 Season 2 rememory that will change how you feel about OGFN.",
       technologies: ["React", "JavaScript", "CSS"],
-      image: "/axion_logo.png",
+      image: "/Axion__Picture.png",
       link: "https://discord.gg/axionfn",
       github: ""
     },
