@@ -60,7 +60,7 @@ export const profile = {
       name: "Project Aeris",
       description: "Project Aeris is hosting Chapter 2 Season 4 with 0 DELAY! Join today!",
       technologies: ["Node.js", "Discord.js"],
-      image: "",
+      image: "/Aeris_Picture.png",
       link: "https://discord.gg/aerismp",
       github: ""
     },
