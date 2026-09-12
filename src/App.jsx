@@ -378,8 +378,8 @@ export default function App() {
         <Section
           id="projects"
           eyebrow="SELECTED WORK"
-          title="My Projects"
-          text="Projects, experiments, and ideas I've brought to life."
+          title="My Played Projects"
+          text="Projects, experiments, and ideas I've played before."
         >
           <div className="projects-grid">
             {profile.projects.map((project, i) => {
